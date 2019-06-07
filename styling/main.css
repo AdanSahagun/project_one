@@ -45,6 +45,13 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+/*  End of Styling Reset */
+
+h4 {
+  font-size: 20px;
+	font-weight: 100;
+	/* display: inline-block; */
+}
 
 .parent_div {
   margin: 5%;
@@ -54,4 +61,44 @@ table {
 }
 .title {
   display: inline-block;
+}
+.email {
+  margin-bottom: 5%;
+}
+.developer {
+  margin-bottom: 5%;
+}
+.skills{
+  display: inline-block;
+  margin-bottom: 13px;
+}
+.skills_title {
+  margin-bottom: 13px;
+}
+.interests {
+  display: inline-block;
+  vertical-align: top;
+}
+.skills_length{
+  display: inline-block;
+  vertical-align: top;
+}
+.skill_set {
+  display: inline-block;
+}
+.interests_title {
+  margin-bottom: 13px;
+}
+.skills_parent_2 {
+  display: inline-block;
+}
+.skills_length_2 {
+  display: inline-block;
+  vertical-align: top;
+}
+.skill_set_2{
+  display: inline-block;
+}
+.great_parent {
+
 }
